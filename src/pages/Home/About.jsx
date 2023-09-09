@@ -28,7 +28,7 @@ const mockData = [
 const About = () => {
   return (
     <>
-      <section className="about_section">
+      <section className="about_section" id="about">
         <Container>
           <Row>
             <Col lg={{ span: 8, offset: 2 }} className="text-center">

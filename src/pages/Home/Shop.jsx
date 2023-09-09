@@ -9,7 +9,7 @@ import DownloadImage from "../../assets/shop/e-shop.png";
 const Shop = () => {
   return (
     <>
-      <section className="shop_section">
+      <section className="shop_section" id="shop">
         <Container>
           <Row className="align-items-center">
             <Col lg={6} className="text-center text-lg-start mb-5 mb-lg-0">

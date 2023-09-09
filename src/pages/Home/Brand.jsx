@@ -12,7 +12,7 @@ import Brand8 from "../../assets/brands/brand-18.png";
 
 const Brand = () => {
   return (
-    <section className="brand_section">
+    <section className="brand_section" id="brand">
       <Container>
         <Row>
           <Carousel>

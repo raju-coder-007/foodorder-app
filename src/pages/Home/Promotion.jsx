@@ -5,7 +5,7 @@ import "../../styles/Promotion.css";
 const Promotion = () => {
   return (
     <>
-      <section className="promotion_section">
+      <section className="promotion_section" id="promotion">
         <Container>
           <Row className="align-items-center">
             <Col lg={6} className="text-center mb-5 mb-lg-0">
